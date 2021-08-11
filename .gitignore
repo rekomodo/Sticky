@@ -1,0 +1,8 @@
+# Directories
+.vs/
+bin/
+bin-int/
+
+# Files
+# Asterisk means it can be from any path
+*.user
